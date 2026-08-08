@@ -95,3 +95,11 @@ DeviceFileEvents
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
 | 1.0         | Initial draft                  | `August 8, 2026`  | `M. Huzaifah`   
+
+## Scenario Creation Screenshots:
+
+<img src="assets/p1.png" width="900">
+<img src="assets/p2.png" width="900">
+<img src="assets/p3.png" width="900">
+<img src="assets/p4.png" width="900">
+<img src="assets/p5.png" width="900">
