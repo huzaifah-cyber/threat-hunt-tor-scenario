@@ -153,8 +153,9 @@ DeviceNetworkEvents
 
 - **Timestamp:** `2026-08-08T15:40:20.697Z`
 - **Event:** The user "miserable-employee" created a shortcut named `tor-shopping-list.lnk` on the desktop, potentially indicating a list or notes related to their TOR browser activities.
-- **Action:** File creation detected.
+- **Action:** File creation and deletion detected.
 - **File Path:** `C:\Users\miserable-employee\Desktop\tor-shopping-list.lnk`
+- **File Path:** `C:\Users\miserable-employee\Desktop\tor-shopping-list.txt`
 
 ---
 
